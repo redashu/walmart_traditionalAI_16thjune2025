@@ -25,3 +25,7 @@
 ### To traing any ML model we have a proper lifecyle 
 
 <img src="ml5.png">
+
+### Basic info about pandas 
+
+<img src="ml6.png">
