@@ -15,3 +15,13 @@
 ### type of supervised ML 
 
 <img src="ml4.png">
+
+### Installing any module in python 
+
+```
+!pip install numpy
+```
+
+### To traing any ML model we have a proper lifecyle 
+
+<img src="ml5.png">
