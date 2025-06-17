@@ -6,3 +6,5 @@
 
 **Dataset:**  
 [walmart_workflow_data.csv](https://github.com/redashu/Datasets/blob/master/walmart_workflow_data.csv)
+
+## Test model by Giving manual inputs of each features -- and print workflow fail/not fail
