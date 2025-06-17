@@ -17,3 +17,11 @@
 ### for classification Model performance check 
 
 <img src="des3.png">
+
+## Some Regression type on behalf of output values 
+
+<img src="rg1.png">
+
+### Model eval for regression 
+
+<img src="rg2.png">
