@@ -38,3 +38,9 @@ By using clustering algorithms like K-Means, we can automatically group stores i
 - **Cluster 0:** Small-town stores with low income and low footfall
 - **Cluster 1:** Metro stores with high income and high footfall
 - **Cluster 2:** Mid-sized city stores with average metrics
+
+
+## Few more info about K-mean clustering algo 
+
+<img src="km1.png">
+
